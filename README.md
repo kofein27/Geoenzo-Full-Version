@@ -265,4 +265,4 @@ This repository serves as the official landing page for GeoEnZo. The software is
 **Get the most recent version of GeoEnZo today!**
 
 ---
-**Last updated:** 2026-10-28 10:22:41 UTC
+**Last updated:** 2026-10-28 16:58:25 UTC
